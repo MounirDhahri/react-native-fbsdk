@@ -368,6 +368,7 @@
 					"$(HOME)/Documents/FacebookSDK",
 					"$(PROJECT_DIR)/../../../ios/Frameworks",
 					"$(PROJECT_DIR)/../../../ios/Pods",
+					"$(PROJECT_DIR)/../../../ios/Facebook/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -393,6 +394,7 @@
 					"~/Documents/FacebookSDK",
 					"$(PROJECT_DIR)/../../../ios/Frameworks",
 					"$(PROJECT_DIR)/../../../ios/Pods",
+					"$(PROJECT_DIR)/../../../ios/Facebook/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
